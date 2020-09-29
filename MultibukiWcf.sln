@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultibukiWcf", "MultibukiWcf.csproj", "{C8BC3B41-DCFA-4241-B1E6-E38A8129511D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data01", "Data01\Data01.csproj", "{269D5F6C-713E-43E6-8FDC-6E6F721B6FF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8BC3B41-DCFA-4241-B1E6-E38A8129511D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BC3B41-DCFA-4241-B1E6-E38A8129511D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BC3B41-DCFA-4241-B1E6-E38A8129511D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BC3B41-DCFA-4241-B1E6-E38A8129511D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{269D5F6C-713E-43E6-8FDC-6E6F721B6FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269D5F6C-713E-43E6-8FDC-6E6F721B6FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269D5F6C-713E-43E6-8FDC-6E6F721B6FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269D5F6C-713E-43E6-8FDC-6E6F721B6FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7451F2F-DA5C-4F35-8146-E53C1765479B}
+	EndGlobalSection
+EndGlobal
